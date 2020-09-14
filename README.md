@@ -1,4 +1,4 @@
-# Pig game made with love and Javascript
+# Pig game made with Javascript
 
 A small project coded in **Javascript** during the course "The complete Javascript course 2020" by Jonas Schmedtmann (Here the link 👉 https://www.udemy.com/course/the-complete-javascript-course/).
 
